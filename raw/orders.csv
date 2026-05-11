@@ -1,0 +1,609 @@
+order_id,order_date,product_id,customer_segment,region,warehouse_id,quantity,unit_price,unit_cost,planned_delivery_days,actual_delivery_days,carrier,order_status
+ORD00001,2026-03-23,P002,Education,Midwest,WH_CHI,97.0,23.37,13.73,2,3.0,Internal Fleet,Delivered
+ORD00002,2026-01-12,P007,Retail,Midwest,WH_CHI,75.0,12.03,7.37,6,6.0,FedEx,Delivered
+ORD00003,2026-03-13,P004,Healthcare,Northeast,WH_NJ,135.0,38.69,24.19,2,2.0,UPS,Delayed
+ORD00004,2026-03-31,P007,Education,West,WH_LAX,106.0,16.66,13.47,4,5.0,FedEx,Delivered
+ORD00005,2026-01-12,P007,Education,Midwest,WH_CHI,63.0,68.56,48.88,2,2.0,Regional Carrier,Delivered
+ORD00006,2026-03-10,P002,Retail,Northeast,WH_NJ,63.0,46.4,35.91,6,6.0,,Delivered
+ORD00007,2026-03-15,P004,Retail,Midwest,WH_CHI,44.0,54.59,41.42,2,2.0,UPS,Delivered
+ORD00008,2026-01-13,P007,Government,West,WH_LAX,90.0,52.68,34.16,4,4.0,DHL,Delivered
+ORD00009,2026-01-27,P005,Distribution,Midwest,WH_CHI,82.0,52.62,36.53,3,3.0,UPS,Delivered
+ORD00010,2026-03-01,P007,Distribution,West,WH_LAX,30.0,21.47,13.69,2,2.0,UPS,Delivered
+ORD00011,2026-01-05,P006,Education,Northeast,WH_NJ,58.0,9.96,7.93,6,6.0,DHL,Delivered
+ORD00012,2026-01-28,P008,Government,Northeast,WH_NJ,69.0,15.72,9.24,6,6.0,Internal Fleet,Delivered
+ORD00013,2026-02-03,P007,Education,Northeast,WH_NJ,108.0,21.45,17.57,6,6.0,Regional Carrier,Delivered
+ORD00014,2026-01-12,P001,Healthcare,Midwest,WH_CHI,37.0,52.06,39.77,5,5.0,Internal Fleet,Delivered
+ORD00015,2026-01-09,P007,Distribution,Northeast,WH_NJ,105.0,79.71,55.23,6,6.0,FedEx,Delivered
+ORD00016,2026-03-29,P002,Education,West,WH_LAX,85.0,13.37,8.92,5,5.0,FedEx,Delivered
+ORD00017,2026-02-03,P003,Education,Midwest,WH_CHI,28.0,68.13,46.81,3,4.0,UPS,Delivered
+ORD00018,2026-02-17,P003,Distribution,Midwest,WH_CHI,54.0,29.31,16.27,4,4.0,DHL,Delivered
+ORD00019,2026-01-31,P001,Distribution,South,WH_DAL,91.0,76.02,43.57,5,,FedEx,Cancelled
+ORD00020,2026-03-10,P003,Government,South,WH_DAL,66.0,76.01,45.19,6,7.0,Internal Fleet,Delivered
+ORD00021,2026-02-24,P004,Education,South,WH_DAL,116.0,34.92,25.54,4,5.0,Regional Carrier,Delivered
+ORD00022,2026-03-08,P008,Healthcare,Midwest,WH_CHI,112.0,21.85,14.01,6,6.0,Internal Fleet,Delivered
+ORD00023,2026-01-30,P004,Retail,Midwest,WH_CHI,91.0,58.09,32.87,2,,FedEx,Delivered
+ORD00024,2026-02-12,P002,Education,South,WH_DAL,114.0,55.17,33.53,3,3.0,Internal Fleet,Delivered
+ORD00025,2026-03-15,P008,Government,South,WH_DAL,108.0,65.56,39.43,2,4.0,Regional Carrier,Delivered
+ORD00026,2026-02-15,P007,Government,Northeast,WH_NJ,127.0,69.79,39.41,2,2.0,FedEx,Delivered
+ORD00027,2026-02-21,P006,Healthcare,Midwest,WH_CHI,92.0,19.37,13.46,3,4.0,Regional Carrier,Delivered
+ORD00028,2026-01-24,P005,Healthcare,Northeast,WH_NJ,133.0,70.59,40.26,6,6.0,FedEx,Delivered
+ORD00029,2026-01-07,P001,Healthcare,Midwest,WH_CHI,83.0,17.47,11.9,3,3.0,Regional Carrier,Delivered
+ORD00030,2026-01-08,P003,Retail,Northeast,WH_NJ,69.0,78.9,49.04,5,7.0,DHL,Delivered
+ORD00031,2026-02-24,P008,Healthcare,South,WH_DAL,131.0,27.25,22.11,6,6.0,Internal Fleet,Delivered
+ORD00032,2026-01-08,P006,Retail,Midwest,WH_CHI,61.0,48.81,33.47,6,6.0,UPS,Delivered
+ORD00033,2026-01-08,P002,Retail,South,WH_DAL,112.0,49.63,36.34,3,4.0,Regional Carrier,Delivered
+ORD00034,2026-01-16,P004,Distribution,Midwest,WH_CHI,91.0,11.15,8.11,6,8.0,Internal Fleet,Delivered
+ORD00035,2026-02-10,P005,Education,South,WH_DAL,55.0,22.9,15.04,4,4.0,Regional Carrier,Delivered
+ORD00036,2026-02-10,P002,Government,Midwest,WH_CHI,68.0,51.59,36.22,2,3.0,FedEx,Delivered
+ORD00037,2026-03-10,P004,Healthcare,West,WH_LAX,80.0,74.99,59.08,3,3.0,DHL,Delivered
+ORD00038,2026-02-06,P003,Distribution,Northeast,WH_NJ,71.0,57.77,41.31,6,6.0,FedEx,Delivered
+ORD00039,2026-03-27,P005,Healthcare,Midwest,WH_CHI,74.0,24.83,19.62,6,6.0,UPS,Delivered
+ORD00040,2026-02-04,P005,Education,South,WH_DAL,94.0,20.27,14.62,4,,Internal Fleet,Cancelled
+ORD00041,2026-03-04,P005,Retail,Midwest,WH_CHI,12.0,52.57,40.69,2,2.0,FedEx,Delivered
+ORD00042,2026-02-12,P003,Healthcare,West,WH_LAX,,60.59,42.35,5,5.0,Internal Fleet,Delivered
+ORD00043,2026-01-02,P002,Healthcare,Midwest,WH_CHI,73.0,45.92,35.6,6,6.0,Internal Fleet,Delivered
+ORD00044,2026-01-19,P007,Retail,South,WH_DAL,90.0,28.12,22.29,2,7.0,DHL,Delivered
+ORD00045,2026-01-27,P004,Education,Midwest,WH_CHI,119.0,63.51,50.09,5,5.0,Internal Fleet,Delivered
+ORD00046,2026-01-20,P004,Healthcare,South,WH_DAL,106.0,71.11,39.59,4,4.0,Regional Carrier,Delivered
+ORD00047,2026-03-27,P004,Healthcare,West,WH_LAX,100.0,64.05,37.1,2,2.0,Regional Carrier,Delivered
+ORD00048,2026-01-29,P004,Education,Northeast,WH_NJ,156.0,27.89,21.33,3,3.0,UPS,Delivered
+ORD00049,2026-01-04,P004,Education,Northeast,WH_NJ,83.0,25.9,14.73,4,4.0,DHL,Delivered
+ORD00050,2026-03-24,P007,Retail,West,WH_LAX,62.0,13.65,11.08,3,3.0,Internal Fleet,Delivered
+ORD00051,2026-02-03,P001,Distribution,Midwest,WH_CHI,42.0,37.59,28.07,4,4.0,Regional Carrier,Delivered
+ORD00052,2026-03-19,P002,Distribution,Northeast,WH_NJ,96.0,19.26,10.82,5,8.0,FedEx,Delivered
+ORD00053,2026-03-08,P004,Government,West,WH_LAX,52.0,10.25,7.48,4,7.0,Internal Fleet,Delayed
+ORD00054,2026-02-10,P002,Distribution,West,WH_LAX,68.0,28.2,18.62,5,5.0,DHL,Delivered
+ORD00055,2026-03-12,P003,Government,South,WH_DAL,87.0,54.87,35.8,3,3.0,Internal Fleet,Delivered
+ORD00056,2026-03-14,P005,Distribution,Northeast,WH_NJ,125.0,67.53,42.68,3,3.0,Regional Carrier,Delayed
+ORD00057,2026-03-16,P006,Government,Northeast,WH_NJ,89.0,38.16,23.19,5,5.0,UPS,Delivered
+ORD00058,2026-03-26,P002,Distribution,West,WH_LAX,107.0,54.79,39.3,2,3.0,UPS,Delayed
+ORD00059,2026-03-28,P005,Healthcare,South,WH_DAL,88.0,16.05,9.03,5,5.0,Internal Fleet,Delivered
+ORD00060,2026-01-10,P008,Distribution,Northeast,WH_NJ,92.0,19.58,14.45,5,5.0,Regional Carrier,Delayed
+ORD00061,2026-02-01,P003,Retail,Midwest,WH_CHI,90.0,63.38,38.6,6,6.0,Regional Carrier,Delivered
+ORD00062,2026-01-07,P004,Government,Midwest,WH_CHI,54.0,15.0,10.13,6,6.0,Internal Fleet,Delivered
+ORD00063,2026-03-18,P006,Distribution,Northeast,WH_NJ,38.0,66.13,52.3,5,5.0,Internal Fleet,Delivered
+ORD00064,2026-02-27,P003,Government,Northeast,WH_NJ,102.0,24.44,15.07,4,4.0,Internal Fleet,Delivered
+ORD00065,2026-03-04,P004,Government,West,WH_LAX,113.0,10.81,6.78,4,4.0,DHL,Delivered
+ORD00066,2026-02-10,P002,Healthcare,South,WH_DAL,94.0,22.34,16.47,3,3.0,FedEx,Delivered
+ORD00067,2026-02-23,P007,Distribution,West,WH_LAX,48.0,39.94,22.64,5,10.0,Regional Carrier,Delivered
+ORD00068,2026-03-16,P001,Government,Northeast,WH_NJ,51.0,5.44,3.51,5,7.0,Regional Carrier,Delivered
+ORD00069,2026-03-10,P004,Healthcare,Northeast,WH_NJ,80.0,25.47,17.35,5,5.0,DHL,Delivered
+ORD00070,2026-03-27,P007,Government,South,WH_DAL,130.0,73.97,60.27,6,6.0,FedEx,Delivered
+ORD00071,2026-02-20,P001,Government,Midwest,WH_CHI,42.0,15.18,10.24,2,5.0,DHL,Delayed
+ORD00072,2026-02-18,P006,Government,South,WH_DAL,96.0,29.51,22.3,5,7.0,DHL,Delivered
+ORD00073,2026-02-23,P005,Government,Midwest,WH_CHI,96.0,6.45,4.49,4,7.0,UPS,Delivered
+ORD00074,2026-03-25,P002,Retail,Midwest,WH_CHI,77.0,76.22,46.02,2,2.0,Internal Fleet,Delivered
+ORD00075,2026-01-20,P004,Government,South,WH_DAL,64.0,55.21,38.77,3,3.0,Regional Carrier,Delivered
+ORD00076,2026-03-31,P005,Healthcare,West,WH_LAX,109.0,50.44,40.87,2,5.0,UPS,Delivered
+ORD00077,2026-02-09,P002,Education,Midwest,WH_CHI,49.0,48.18,38.31,5,,Regional Carrier,Cancelled
+ORD00078,2026-01-26,P002,Retail,South,WH_DAL,85.0,57.29,36.17,6,6.0,FedEx,Delivered
+ORD00079,2026-03-14,P001,Distribution,West,WH_LAX,92.0,37.13,24.14,6,6.0,DHL,Delivered
+ORD00080,2026-01-02,P007,Retail,Northeast,WH_NJ,99.0,37.51,24.3,5,5.0,UPS,Delivered
+ORD00081,2026-02-25,P003,Distribution,West,WH_LAX,98.0,65.61,45.62,5,7.0,Regional Carrier,Delayed
+ORD00082,2026-02-25,P005,Healthcare,West,WH_LAX,97.0,67.3,38.59,5,5.0,UPS,Delivered
+ORD00083,2026-03-01,P007,Retail,West,WH_LAX,99.0,42.07,26.83,5,5.0,UPS,Delivered
+ORD00084,2026-02-15,P005,Education,West,WH_LAX,119.0,71.02,52.51,4,6.0,Internal Fleet,Delivered
+ORD00085,2026-01-02,P004,Healthcare,Midwest,WH_CHI,52.0,59.01,40.24,3,3.0,Regional Carrier,Delivered
+ORD00086,2026-03-24,P008,Retail,Northeast,WH_NJ,71.0,11.98,7.31,3,3.0,DHL,Delivered
+ORD00087,2026-03-26,P006,Distribution,Northeast,WH_NJ,104.0,44.82,29.8,6,6.0,DHL,Delivered
+ORD00088,2026-02-15,P008,Education,West,WH_LAX,23.0,23.86,13.9,3,4.0,DHL,Delivered
+ORD00089,2026-01-16,P003,Healthcare,South,WH_DAL,82.0,60.4,37.73,6,7.0,Internal Fleet,Delivered
+ORD00090,2026-03-18,P005,Healthcare,Midwest,WH_CHI,42.0,27.22,17.62,4,4.0,FedEx,Delivered
+ORD00091,2026-03-10,P003,Retail,West,WH_LAX,81.0,78.07,54.6,3,3.0,Regional Carrier,Delivered
+ORD00092,2026-01-14,P001,Government,West,WH_LAX,57.0,40.9,26.26,2,,DHL,Cancelled
+ORD00093,2026-03-03,P002,Government,Midwest,WH_CHI,9.0,41.88,29.56,2,3.0,UPS,Delivered
+ORD00094,2026-01-20,P005,Healthcare,Midwest,WH_CHI,86.0,13.88,10.5,6,6.0,Internal Fleet,Delivered
+ORD00095,2026-03-21,P004,Government,Northeast,WH_NJ,97.0,73.14,46.1,6,6.0,Regional Carrier,Delivered
+ORD00096,2026-02-09,P001,Healthcare,Midwest,WH_CHI,110.0,51.91,32.26,2,2.0,UPS,Delivered
+ORD00097,2026-01-31,P003,Healthcare,Midwest,WH_CHI,141.0,5.2,3.49,6,6.0,Regional Carrier,Delivered
+ORD00098,2026-02-07,P001,Education,South,WH_DAL,94.0,58.02,42.92,5,8.0,FedEx,Delivered
+ORD00099,2026-03-29,P004,Distribution,West,WH_LAX,154.0,54.59,43.79,5,5.0,FedEx,Delivered
+ORD00100,2026-03-11,P004,Education,South,WH_DAL,116.0,67.0,38.14,3,3.0,DHL,Delivered
+ORD00101,2026-03-18,P005,Retail,Northeast,WH_NJ,95.0,40.15,25.38,5,5.0,DHL,Delivered
+ORD00102,2026-03-06,P008,Retail,Northeast,WH_NJ,107.0,49.85,39.39,4,4.0,Internal Fleet,Delivered
+ORD00103,2026-02-02,P001,Healthcare,Midwest,WH_CHI,71.0,77.14,59.84,6,6.0,Internal Fleet,Delivered
+ORD00104,2026-01-03,P005,Healthcare,Midwest,WH_CHI,36.0,40.29,29.25,4,4.0,UPS,Delivered
+ORD00105,2026-03-16,P007,Retail,Northeast,WH_NJ,130.0,40.25,26.58,4,4.0,FedEx,Delivered
+ORD00106,2026-01-21,P006,Government,Northeast,WH_NJ,29.0,26.62,21.43,6,6.0,FedEx,Delivered
+ORD00107,2026-02-28,P002,Education,West,WH_LAX,86.0,29.25,23.75,5,5.0,Internal Fleet,Delivered
+ORD00108,2026-01-01,P008,Retail,Northeast,WH_NJ,58.0,19.07,12.35,5,8.0,Regional Carrier,Delivered
+ORD00109,2026-01-07,P004,Distribution,West,WH_LAX,135.0,14.83,9.31,5,5.0,FedEx,Delivered
+ORD00110,2026-01-04,P004,Education,South,WH_DAL,36.0,46.31,32.38,2,5.0,UPS,Delivered
+ORD00111,2026-01-15,P008,Healthcare,Midwest,WH_CHI,89.0,42.38,31.51,6,6.0,DHL,Delivered
+ORD00112,2026-02-23,P008,Healthcare,Northeast,WH_NJ,58.0,39.26,23.13,3,5.0,Internal Fleet,Delivered
+ORD00113,2026-03-07,P003,Education,Midwest,WH_CHI,59.0,62.95,49.14,4,4.0,Internal Fleet,Delivered
+ORD00114,2026-02-04,P001,Education,West,WH_LAX,109.0,67.81,47.91,5,5.0,UPS,Delayed
+ORD00115,2026-02-27,P008,Education,West,WH_LAX,108.0,46.39,32.32,5,5.0,DHL,Delivered
+ORD00116,2026-01-25,P004,Healthcare,Northeast,WH_NJ,102.0,69.2,45.73,4,5.0,Regional Carrier,Delivered
+ORD00117,2026-02-18,P007,Government,South,WH_DAL,79.0,77.36,45.18,6,6.0,DHL,Delivered
+ORD00118,2026-01-13,P008,Distribution,Midwest,WH_CHI,84.0,73.28,40.61,3,3.0,Regional Carrier,Delayed
+ORD00119,2026-03-25,P003,Government,Midwest,WH_CHI,72.0,63.61,39.54,6,7.0,Regional Carrier,Delivered
+ORD00120,2026-03-25,P002,Distribution,West,WH_LAX,118.0,33.5,21.29,5,5.0,Internal Fleet,Delayed
+ORD00121,2026-01-05,P002,Education,South,WH_DAL,125.0,79.81,59.99,5,5.0,FedEx,Delayed
+ORD00122,2026-03-23,P002,Healthcare,Northeast,WH_NJ,80.0,57.05,45.29,2,2.0,DHL,Delivered
+ORD00123,2026-01-08,P005,Education,West,WH_LAX,91.0,37.3,22.97,5,8.0,Internal Fleet,Delivered
+ORD00124,2026-03-29,P003,Healthcare,South,WH_DAL,75.0,10.92,8.57,6,6.0,UPS,Delivered
+ORD00125,2026-03-05,P003,Government,South,WH_DAL,44.0,52.84,35.62,2,2.0,Regional Carrier,Delivered
+ORD00126,2026-02-06,P003,Government,Midwest,WH_CHI,37.0,75.89,61.98,4,5.0,Regional Carrier,Delivered
+ORD00127,2026-03-30,P005,Education,Northeast,WH_NJ,79.0,19.94,13.04,5,5.0,FedEx,Delivered
+ORD00128,2026-01-31,P007,Distribution,West,WH_LAX,48.0,27.19,20.09,2,2.0,Regional Carrier,Delayed
+ORD00129,2026-02-05,P001,Distribution,Midwest,WH_CHI,51.0,60.89,47.18,4,4.0,UPS,Delivered
+ORD00130,2026-03-19,P006,Healthcare,South,WH_DAL,68.0,51.57,37.8,3,3.0,FedEx,Delivered
+ORD00131,2026-03-22,P001,Government,West,WH_LAX,88.0,7.5,4.86,3,3.0,FedEx,Delivered
+ORD00132,2026-02-07,P006,Healthcare,Northeast,WH_NJ,62.0,20.06,15.29,4,4.0,Internal Fleet,Delivered
+ORD00133,2026-03-06,P005,Education,South,WH_DAL,29.0,73.55,59.2,4,5.0,DHL,Delayed
+ORD00134,2026-01-15,P008,Healthcare,Midwest,WH_CHI,30.0,61.56,37.61,5,10.0,Internal Fleet,Delivered
+ORD00135,2026-02-16,P002,Retail,Northeast,WH_NJ,54.0,24.83,14.49,4,5.0,DHL,Delivered
+ORD00136,2026-03-16,P007,Retail,West,WH_LAX,72.0,55.61,37.66,6,6.0,Internal Fleet,Delayed
+ORD00137,2026-02-11,P004,Government,Midwest,WH_CHI,79.0,73.2,46.23,5,5.0,FedEx,Delivered
+ORD00138,2026-01-18,P001,Education,Midwest,WH_CHI,44.0,79.69,46.33,3,3.0,Internal Fleet,Delivered
+ORD00139,2026-01-18,P007,Education,Northeast,WH_NJ,91.0,55.29,41.5,6,7.0,Regional Carrier,Delivered
+ORD00140,2026-03-17,P003,Retail,Northeast,WH_NJ,51.0,67.53,48.37,4,7.0,FedEx,Delivered
+ORD00141,2026-03-30,P006,Government,South,WH_DAL,104.0,38.35,23.54,4,4.0,FedEx,Delayed
+ORD00142,2026-03-29,P006,Retail,West,WH_LAX,65.0,34.86,20.96,2,2.0,Regional Carrier,Delayed
+ORD00143,2026-01-12,P004,Retail,Midwest,WH_CHI,87.0,64.01,39.42,3,3.0,Internal Fleet,Delivered
+ORD00144,2026-01-27,P002,Distribution,South,WH_DAL,80.0,21.2,16.64,4,7.0,UPS,Delivered
+ORD00145,2026-03-18,P001,Healthcare,West,WH_LAX,130.0,79.06,55.01,3,3.0,FedEx,Delivered
+ORD00146,2026-03-26,P001,Retail,South,WH_DAL,113.0,31.87,24.31,6,6.0,DHL,Delayed
+ORD00147,2026-01-03,P003,Retail,West,WH_LAX,156.0,14.51,9.63,2,2.0,FedEx,Delivered
+ORD00148,2026-03-02,P008,Distribution,West,WH_LAX,51.0,49.52,33.28,3,3.0,Internal Fleet,Delivered
+ORD00149,2026-01-06,P005,Retail,Northeast,WH_NJ,53.0,9.56,6.49,5,,Regional Carrier,Cancelled
+ORD00150,2026-03-29,P002,Government,Northeast,WH_NJ,85.0,10.51,6.01,6,6.0,UPS,Delivered
+ORD00151,2026-01-09,P003,Distribution,West,WH_LAX,113.0,52.48,36.63,4,4.0,Regional Carrier,Delivered
+ORD00152,2026-03-18,P005,Distribution,Northeast,WH_NJ,59.0,50.41,29.08,2,4.0,Internal Fleet,Delivered
+ORD00153,2026-01-28,P007,Healthcare,Northeast,WH_NJ,33.0,36.04,27.87,5,8.0,Regional Carrier,Delivered
+ORD00154,2026-01-13,P006,Education,Northeast,WH_NJ,144.0,54.88,35.73,3,3.0,Regional Carrier,Delivered
+ORD00155,2026-01-09,P002,Retail,Midwest,WH_CHI,121.0,37.39,28.08,4,9.0,UPS,Delivered
+ORD00156,2026-03-13,P001,Retail,West,WH_LAX,63.0,35.81,28.14,5,5.0,FedEx,Delivered
+ORD00157,2026-02-06,P005,Retail,West,WH_LAX,75.0,48.34,29.36,5,5.0,UPS,Delivered
+ORD00158,2026-01-14,P006,Retail,West,WH_LAX,123.0,62.2,43.85,5,5.0,Internal Fleet,Delivered
+ORD00159,2026-03-21,P001,Retail,West,WH_LAX,80.0,18.53,13.71,4,5.0,DHL,Delayed
+ORD00160,2026-02-14,P001,Healthcare,South,WH_DAL,81.0,47.47,31.25,3,5.0,FedEx,Delivered
+ORD00161,2026-01-12,P004,Government,Northeast,WH_NJ,42.0,39.02,23.12,4,7.0,DHL,Delivered
+ORD00162,2026-03-14,P002,Healthcare,Midwest,WH_CHI,75.0,16.81,12.05,2,2.0,DHL,Delivered
+ORD00163,2026-02-26,P007,Distribution,Northeast,WH_NJ,26.0,38.15,23.8,6,6.0,FedEx,Delivered
+ORD00164,2026-02-14,P007,Education,Midwest,WH_CHI,124.0,55.87,39.68,6,6.0,DHL,Delivered
+ORD00165,2026-01-06,P004,Distribution,Northeast,WH_NJ,121.0,9.11,5.51,3,3.0,UPS,Delivered
+ORD00166,2026-02-02,P005,Retail,West,WH_LAX,82.0,5.58,4.19,3,5.0,UPS,Delivered
+ORD00167,2026-02-18,P004,Retail,West,WH_LAX,102.0,34.78,26.1,5,5.0,FedEx,Delivered
+ORD00168,2026-02-28,P002,Distribution,West,WH_LAX,127.0,37.2,24.52,5,5.0,DHL,Delivered
+ORD00169,2026-01-15,P007,Education,Midwest,WH_CHI,117.0,17.89,14.42,5,5.0,DHL,Delivered
+ORD00170,2026-01-12,P007,Healthcare,Midwest,WH_CHI,18.0,37.68,24.8,2,4.0,Regional Carrier,Delivered
+ORD00171,2026-02-09,P006,Education,South,WH_DAL,132.0,63.43,36.19,2,2.0,Internal Fleet,Delivered
+ORD00172,2026-03-07,P004,Education,West,WH_LAX,82.0,59.55,45.92,3,5.0,UPS,Delayed
+ORD00173,2026-01-14,P003,Healthcare,West,WH_LAX,20.0,18.01,10.65,2,,UPS,Cancelled
+ORD00174,2026-03-22,P008,Distribution,Northeast,WH_NJ,78.0,61.99,41.61,6,6.0,Internal Fleet,Delivered
+ORD00175,2026-02-11,P006,Government,South,WH_DAL,34.0,10.12,6.77,4,4.0,DHL,Delivered
+ORD00176,2026-03-17,P001,Distribution,West,WH_LAX,103.0,10.56,7.12,2,2.0,FedEx,Delivered
+ORD00177,2026-02-17,P005,Retail,Midwest,WH_CHI,92.0,51.13,35.12,5,5.0,Internal Fleet,Delivered
+ORD00178,2026-03-12,P001,Distribution,Northeast,WH_NJ,47.0,53.89,34.32,5,7.0,Internal Fleet,Delivered
+ORD00179,2026-01-20,P001,Retail,Northeast,WH_NJ,45.0,65.82,51.08,2,2.0,Internal Fleet,Delivered
+ORD00180,2026-03-24,P003,Healthcare,Midwest,WH_CHI,97.0,58.07,47.48,6,6.0,Internal Fleet,Delivered
+ORD00181,2026-03-20,P003,Education,West,WH_LAX,76.0,73.85,48.34,4,4.0,Internal Fleet,Delivered
+ORD00182,2026-01-07,P006,Education,Midwest,WH_CHI,43.0,12.09,8.86,4,4.0,DHL,Delivered
+ORD00183,2026-03-26,P003,Retail,West,WH_LAX,55.0,48.71,28.65,4,6.0,DHL,Delayed
+ORD00184,2026-03-25,P007,Distribution,South,WH_DAL,87.0,58.16,33.32,6,6.0,Regional Carrier,Delivered
+ORD00185,2026-03-24,P006,Distribution,South,WH_DAL,101.0,12.01,8.78,6,6.0,DHL,Delivered
+ORD00186,2026-01-03,P006,Healthcare,West,WH_LAX,106.0,76.34,49.03,5,5.0,UPS,Delivered
+ORD00187,2026-01-29,P003,Retail,South,WH_DAL,26.0,27.18,20.73,6,6.0,Internal Fleet,Delivered
+ORD00188,2026-03-09,P001,Distribution,West,WH_LAX,127.0,14.83,9.66,3,3.0,UPS,Delivered
+ORD00189,2026-03-30,P003,Retail,Northeast,WH_NJ,100.0,35.81,26.24,3,3.0,Regional Carrier,Delivered
+ORD00190,2026-03-20,P005,Healthcare,Northeast,WH_NJ,90.0,45.05,28.54,5,5.0,UPS,Delivered
+ORD00191,2026-02-17,P008,Education,Northeast,WH_NJ,23.0,63.36,43.45,5,5.0,UPS,Delivered
+ORD00192,2026-01-26,P003,Retail,West,WH_LAX,87.0,53.09,41.73,6,6.0,FedEx,Delivered
+ORD00193,2026-03-08,P002,Retail,West,WH_LAX,57.0,62.23,38.81,6,6.0,UPS,Delayed
+ORD00194,2026-02-25,P002,Government,South,WH_DAL,42.0,71.35,57.17,5,5.0,FedEx,Delivered
+ORD00195,2026-02-20,P006,Government,South,WH_DAL,79.0,79.59,51.83,2,2.0,DHL,Delivered
+ORD00196,2026-01-13,P006,Healthcare,South,WH_DAL,131.0,7.87,6.28,5,5.0,UPS,Delivered
+ORD00197,2026-03-02,P008,Retail,Midwest,WH_CHI,43.0,6.43,3.91,3,3.0,Internal Fleet,Delivered
+ORD00198,2026-03-19,P007,Education,Midwest,WH_CHI,73.0,22.82,13.3,3,3.0,Regional Carrier,Delivered
+ORD00199,2026-03-23,P008,Retail,Midwest,WH_CHI,31.0,67.75,46.41,6,6.0,FedEx,Delivered
+ORD00200,2026-03-22,P004,Education,South,WH_DAL,99.0,37.19,26.63,3,3.0,Internal Fleet,Delivered
+ORD00201,2026-02-23,P003,Distribution,Midwest,WH_CHI,59.0,78.1,44.38,6,6.0,Internal Fleet,Delayed
+ORD00202,2026-03-06,P001,Government,Northeast,WH_NJ,49.0,8.27,5.41,4,4.0,DHL,Delivered
+ORD00203,2026-01-03,P006,Education,Midwest,WH_CHI,89.0,23.08,16.79,2,2.0,Internal Fleet,Delivered
+ORD00204,2026-02-12,P003,Education,Midwest,WH_CHI,78.0,45.95,35.37,3,6.0,Regional Carrier,Delivered
+ORD00205,2026-03-31,P008,Healthcare,South,WH_DAL,59.0,9.73,7.39,5,5.0,FedEx,Delivered
+ORD00206,2026-02-07,P004,Healthcare,Midwest,WH_CHI,106.0,71.43,45.37,4,7.0,Internal Fleet,Delivered
+ORD00207,2026-02-20,P008,Retail,West,WH_LAX,21.0,61.5,37.0,4,5.0,FedEx,Delivered
+ORD00208,2026-03-25,P006,Retail,West,WH_LAX,99.0,64.95,43.39,5,5.0,Regional Carrier,Delivered
+ORD00209,2026-02-19,P006,Government,South,WH_DAL,23.0,56.91,36.95,6,6.0,DHL,Delivered
+ORD00210,2026-01-11,P007,Government,Midwest,WH_CHI,81.0,50.18,38.74,6,6.0,DHL,Delivered
+ORD00211,2026-02-11,P002,Education,Midwest,WH_CHI,77.0,54.57,34.53,6,6.0,Regional Carrier,Delivered
+ORD00212,2026-01-22,P008,Government,West,WH_LAX,37.0,8.18,6.42,4,4.0,Internal Fleet,Delivered
+ORD00213,2026-02-25,P005,Retail,Midwest,WH_CHI,115.0,55.34,36.51,6,6.0,UPS,Delivered
+ORD00214,2026-01-04,P003,Retail,Northeast,WH_NJ,59.0,14.47,8.88,4,5.0,DHL,Delivered
+ORD00215,2026-02-19,P001,Government,South,WH_DAL,1.0,76.16,49.54,2,2.0,Internal Fleet,Delayed
+ORD00216,2026-01-18,P006,Education,Northeast,WH_NJ,52.0,53.72,33.17,2,3.0,FedEx,Delayed
+ORD00217,2026-01-24,P008,Distribution,Northeast,WH_NJ,92.0,13.83,10.5,5,8.0,UPS,Delivered
+ORD00218,2026-03-20,P005,Healthcare,Northeast,WH_NJ,58.0,14.2,11.08,5,5.0,UPS,Delivered
+ORD00219,2026-02-26,P002,Education,West,WH_LAX,120.0,58.22,40.67,4,4.0,DHL,Delivered
+ORD00220,2026-01-21,P003,Distribution,West,WH_LAX,88.0,21.82,17.8,3,3.0,UPS,Delivered
+ORD00221,2026-03-05,P001,Distribution,West,WH_LAX,93.0,47.92,32.4,6,6.0,UPS,Delivered
+ORD00222,2026-03-20,P002,Education,Midwest,WH_CHI,65.0,34.86,25.92,5,5.0,Internal Fleet,Delayed
+ORD00223,2026-02-22,P007,Healthcare,Midwest,WH_CHI,122.0,77.93,56.38,5,5.0,Regional Carrier,Delivered
+ORD00224,2026-03-29,P006,Distribution,South,WH_DAL,65.0,52.98,31.74,3,3.0,Regional Carrier,Delivered
+ORD00225,2026-03-06,P001,Distribution,Midwest,WH_CHI,80.0,16.48,9.8,4,4.0,UPS,Delayed
+ORD00226,2026-02-14,P005,Education,Midwest,WH_CHI,138.0,19.72,15.94,4,4.0,UPS,Delivered
+ORD00227,2026-03-22,P005,Distribution,Midwest,WH_CHI,88.0,53.07,37.67,6,6.0,UPS,Delayed
+ORD00228,2026-01-22,P006,Retail,Midwest,WH_CHI,106.0,11.09,8.94,6,6.0,DHL,Delivered
+ORD00229,2026-03-25,P004,Distribution,Northeast,WH_NJ,91.0,52.92,36.22,6,6.0,DHL,Delivered
+ORD00230,2026-03-24,P005,Healthcare,Northeast,WH_NJ,65.0,65.35,48.03,4,6.0,Regional Carrier,Delivered
+ORD00231,2026-01-10,P001,Government,South,WH_DAL,63.0,36.17,24.43,4,4.0,Internal Fleet,Delivered
+ORD00232,2026-01-19,P006,Education,West,WH_LAX,50.0,78.15,45.74,4,4.0,Internal Fleet,Delivered
+ORD00233,2026-03-13,P002,Healthcare,West,WH_LAX,96.0,39.99,24.88,3,3.0,UPS,Delivered
+ORD00234,2026-01-13,P001,Government,West,WH_LAX,91.0,69.81,46.28,3,3.0,DHL,Delivered
+ORD00235,2026-03-15,P006,Healthcare,South,WH_DAL,70.0,42.37,29.19,5,6.0,DHL,Delivered
+ORD00236,2026-03-05,P001,Government,Midwest,WH_CHI,45.0,42.91,34.8,3,3.0,Internal Fleet,Delivered
+ORD00237,2026-02-15,P001,Education,Midwest,WH_CHI,110.0,42.12,33.2,5,5.0,DHL,Delivered
+ORD00238,2026-03-10,P001,Government,Midwest,WH_CHI,127.0,15.05,9.35,4,4.0,Regional Carrier,Delivered
+ORD00239,2026-02-16,P001,Retail,Northeast,WH_NJ,17.0,47.77,28.78,6,6.0,DHL,Delayed
+ORD00240,2026-01-10,P007,Distribution,Northeast,WH_NJ,132.0,25.98,21.23,6,6.0,FedEx,Delivered
+ORD00241,2026-01-17,P002,Education,Northeast,WH_NJ,165.0,64.62,41.46,4,4.0,UPS,Delayed
+ORD00242,2026-01-26,P007,Retail,Midwest,WH_CHI,84.0,7.92,5.88,5,8.0,Internal Fleet,Delivered
+ORD00243,2026-02-28,P003,Education,South,WH_DAL,96.0,74.85,47.6,5,5.0,Internal Fleet,Delivered
+ORD00244,2026-02-08,P006,Distribution,Northeast,WH_NJ,87.0,27.48,21.17,4,4.0,DHL,Delivered
+ORD00245,2026-03-28,P002,Distribution,Northeast,WH_NJ,135.0,28.08,22.26,2,5.0,Internal Fleet,Delayed
+ORD00246,2026-03-02,P005,Retail,South,WH_DAL,62.0,48.76,29.06,6,6.0,Regional Carrier,Delivered
+ORD00247,2026-01-19,P004,Distribution,Midwest,WH_CHI,81.0,76.12,44.12,2,2.0,Regional Carrier,Delivered
+ORD00248,2026-02-10,P007,Government,South,WH_DAL,118.0,56.79,37.53,6,6.0,Regional Carrier,Delivered
+ORD00249,2026-01-08,P003,Distribution,South,WH_DAL,44.0,29.38,21.41,6,6.0,Regional Carrier,Delayed
+ORD00250,2026-02-10,P003,Distribution,Northeast,WH_NJ,22.0,30.67,19.8,4,4.0,Internal Fleet,Delivered
+ORD00251,2026-03-03,P004,Education,South,WH_DAL,68.0,46.86,28.62,4,4.0,DHL,Delivered
+ORD00252,2026-01-27,P008,Government,West,WH_LAX,138.0,31.16,24.99,4,4.0,DHL,Delivered
+ORD00253,2026-01-16,P007,Education,Northeast,WH_NJ,1.0,76.6,58.77,4,6.0,FedEx,Delivered
+ORD00254,2026-02-06,P002,Government,West,WH_LAX,78.0,54.2,40.75,3,3.0,UPS,Delivered
+ORD00255,2026-03-10,P005,Healthcare,West,WH_LAX,70.0,13.19,9.89,3,,UPS,Cancelled
+ORD00256,2026-01-07,P004,Retail,South,WH_DAL,41.0,12.51,8.0,5,5.0,FedEx,Delivered
+ORD00257,2026-03-29,P003,Distribution,Midwest,WH_CHI,80.0,78.34,46.43,5,5.0,Regional Carrier,Delayed
+ORD00258,2026-03-25,P004,Education,West,WH_LAX,79.0,26.41,14.95,2,2.0,Internal Fleet,Delivered
+ORD00259,2026-01-30,P001,Government,South,WH_DAL,78.0,71.17,42.52,2,2.0,Regional Carrier,Delivered
+ORD00260,2026-03-05,P003,Retail,West,WH_LAX,60.0,5.7,4.01,2,3.0,DHL,Delivered
+ORD00261,2026-02-06,P008,Healthcare,Northeast,WH_NJ,1.0,68.83,46.55,3,3.0,FedEx,Delivered
+ORD00262,2026-02-12,P003,Education,Northeast,WH_NJ,118.0,58.89,32.61,4,4.0,DHL,Delivered
+ORD00263,2026-03-14,P004,Distribution,South,WH_DAL,30.0,69.21,54.83,5,5.0,Internal Fleet,Delivered
+ORD00264,2026-02-11,P002,Retail,Northeast,WH_NJ,52.0,18.86,11.09,4,4.0,UPS,Delivered
+ORD00265,2026-01-01,P005,Healthcare,Northeast,WH_NJ,112.0,38.51,23.96,4,4.0,DHL,Delivered
+ORD00266,2026-03-16,P001,Education,West,WH_LAX,124.0,56.96,32.28,2,2.0,Regional Carrier,Delivered
+ORD00267,2026-02-09,P003,Distribution,Northeast,WH_NJ,61.0,74.23,58.62,4,4.0,FedEx,Delivered
+ORD00268,2026-03-23,P005,Distribution,West,WH_LAX,97.0,21.56,17.43,5,5.0,UPS,Delivered
+ORD00269,2026-02-28,P006,Distribution,Northeast,WH_NJ,104.0,73.46,55.42,3,4.0,UPS,Delivered
+ORD00270,2026-03-29,P002,Distribution,Northeast,WH_NJ,95.0,57.78,33.0,6,6.0,FedEx,Delivered
+ORD00271,2026-01-08,P004,Healthcare,South,WH_DAL,100.0,29.61,20.45,2,2.0,UPS,Delivered
+ORD00272,2026-03-16,P008,Distribution,Midwest,WH_CHI,69.0,38.41,21.7,3,3.0,Internal Fleet,Delivered
+ORD00273,2026-02-23,P008,Distribution,Midwest,WH_CHI,91.0,39.68,30.47,2,2.0,Regional Carrier,Delayed
+ORD00274,2026-02-02,P001,Distribution,South,WH_DAL,36.0,10.48,6.96,2,3.0,Internal Fleet,Delivered
+ORD00275,2026-01-08,P002,Retail,Northeast,WH_NJ,55.0,26.53,15.88,3,3.0,Regional Carrier,Delivered
+ORD00276,2026-02-17,P007,Government,Northeast,WH_NJ,30.0,33.17,24.36,6,6.0,UPS,Delivered
+ORD00277,2026-03-25,P006,Healthcare,Midwest,WH_CHI,7.0,79.46,52.14,3,3.0,UPS,Delayed
+ORD00278,2026-01-01,P001,Government,West,WH_LAX,139.0,55.51,38.69,6,7.0,Regional Carrier,Delivered
+ORD00279,2026-01-30,P004,Education,Northeast,WH_NJ,78.0,16.63,9.99,2,4.0,FedEx,Delivered
+ORD00280,2026-03-26,P007,Healthcare,Midwest,WH_CHI,118.0,20.46,11.81,2,2.0,Regional Carrier,Delivered
+ORD00281,2026-03-18,P001,Retail,South,WH_DAL,90.0,35.17,21.57,3,3.0,FedEx,Delivered
+ORD00282,2026-01-18,P005,Distribution,South,WH_DAL,20.0,28.92,20.57,4,4.0,UPS,Delivered
+ORD00283,2026-02-08,P003,Government,South,WH_DAL,80.0,27.54,15.6,6,6.0,UPS,Delivered
+ORD00284,2026-03-22,P007,Retail,Northeast,WH_NJ,92.0,77.92,62.67,5,5.0,Internal Fleet,Delayed
+ORD00285,2026-02-10,P007,Healthcare,Northeast,WH_NJ,86.0,27.49,16.48,6,6.0,Regional Carrier,Delivered
+ORD00286,2026-01-31,P004,Healthcare,West,WH_LAX,45.0,65.43,52.15,6,6.0,Regional Carrier,Delivered
+ORD00287,2026-02-23,P003,Healthcare,Northeast,WH_NJ,88.0,24.12,15.42,2,2.0,Regional Carrier,Delivered
+ORD00288,2026-02-17,P002,Retail,South,WH_DAL,114.0,25.13,18.39,6,6.0,FedEx,Delayed
+ORD00289,2026-01-10,P004,Government,South,WH_DAL,15.0,20.67,16.43,4,4.0,FedEx,Delivered
+ORD00290,2026-01-28,P004,Government,Midwest,WH_CHI,35.0,73.58,54.29,3,3.0,Regional Carrier,Delivered
+ORD00291,2026-01-31,P006,Government,West,WH_LAX,86.0,39.97,28.98,4,4.0,DHL,Delivered
+ORD00292,2026-02-16,P008,Retail,Northeast,WH_NJ,53.0,65.21,48.58,4,4.0,UPS,Delivered
+ORD00293,2026-02-17,P006,Retail,Northeast,WH_NJ,45.0,47.19,28.77,3,3.0,FedEx,Delivered
+ORD00294,2026-02-03,P007,Healthcare,West,WH_LAX,116.0,19.71,12.06,6,6.0,UPS,Delayed
+ORD00295,2026-03-05,P006,Government,West,WH_LAX,49.0,77.49,56.05,5,5.0,Regional Carrier,Delivered
+ORD00296,2026-01-22,P006,Healthcare,South,WH_DAL,104.0,59.02,40.24,6,6.0,FedEx,Delivered
+ORD00297,2026-03-09,P001,Retail,Midwest,WH_CHI,169.0,62.33,41.22,3,3.0,FedEx,Delivered
+ORD00298,2026-01-20,P001,Distribution,South,WH_DAL,76.0,39.2,22.2,6,6.0,Regional Carrier,Delivered
+ORD00299,2026-03-26,P008,Retail,Midwest,WH_CHI,78.0,44.92,29.69,2,2.0,Internal Fleet,Delivered
+ORD00300,2026-02-05,P005,Distribution,Midwest,WH_CHI,141.0,65.99,48.3,3,3.0,FedEx,Delivered
+ORD00301,2026-01-13,P003,Healthcare,South,WH_DAL,102.0,51.48,31.82,4,4.0,DHL,Delivered
+ORD00302,2026-02-20,P002,Government,West,WH_LAX,114.0,39.42,24.27,3,3.0,DHL,Delivered
+ORD00303,2026-03-29,P002,Retail,Midwest,WH_CHI,77.0,35.4,23.07,5,5.0,FedEx,Delivered
+ORD00304,2026-03-23,P001,Retail,South,WH_DAL,101.0,42.49,28.35,4,6.0,Internal Fleet,Delivered
+ORD00305,2026-01-13,P001,Healthcare,South,WH_DAL,99.0,72.6,53.5,6,6.0,Regional Carrier,Delivered
+ORD00306,2026-02-04,P001,Education,Midwest,WH_CHI,117.0,72.45,50.87,2,2.0,UPS,Delivered
+ORD00307,2026-02-10,P001,Distribution,South,WH_DAL,95.0,15.81,12.2,5,5.0,FedEx,Delivered
+ORD00308,2026-02-08,P003,Distribution,South,WH_DAL,87.0,67.6,44.28,6,8.0,DHL,Delivered
+ORD00309,2026-02-19,P003,Distribution,Midwest,WH_CHI,42.0,60.91,39.19,2,,Regional Carrier,Cancelled
+ORD00310,2026-01-30,P002,Distribution,West,WH_LAX,116.0,62.68,50.63,5,8.0,DHL,Delivered
+ORD00311,2026-01-04,P005,Government,Northeast,WH_NJ,80.0,22.11,15.46,5,5.0,Regional Carrier,Delivered
+ORD00312,2026-01-24,P007,Distribution,Midwest,WH_CHI,81.0,27.15,16.74,2,2.0,FedEx,Delivered
+ORD00313,2026-02-04,P003,Healthcare,Northeast,WH_NJ,64.0,60.47,38.43,2,2.0,FedEx,Delivered
+ORD00314,2026-01-01,P005,Education,Northeast,WH_NJ,69.0,62.1,35.87,2,2.0,UPS,Delivered
+ORD00315,2026-02-25,P008,Retail,Northeast,WH_NJ,73.0,6.97,4.5,2,2.0,Internal Fleet,Delivered
+ORD00316,2026-03-18,P006,Retail,Northeast,WH_NJ,64.0,26.89,17.61,2,2.0,Internal Fleet,Delivered
+ORD00317,2026-02-01,P003,Healthcare,Northeast,WH_NJ,89.0,15.41,9.73,5,5.0,UPS,Delivered
+ORD00318,2026-01-09,P003,Education,Northeast,WH_NJ,111.0,36.58,24.9,2,4.0,DHL,Delivered
+ORD00319,2026-02-02,P004,Distribution,Northeast,WH_NJ,82.0,51.25,34.52,3,6.0,DHL,Delivered
+ORD00320,2026-01-01,P007,Distribution,West,WH_LAX,117.0,33.49,26.22,5,10.0,DHL,Delivered
+ORD00321,2026-02-25,P003,Education,West,WH_LAX,61.0,50.24,37.06,5,5.0,DHL,Delivered
+ORD00322,2026-01-23,P007,Education,West,WH_LAX,129.0,60.12,43.34,6,,UPS,Cancelled
+ORD00323,2026-02-11,P007,Government,West,WH_LAX,64.0,32.38,25.96,3,3.0,Internal Fleet,Delivered
+ORD00324,2026-03-11,P003,Government,Midwest,WH_CHI,130.0,75.72,45.93,4,4.0,FedEx,Delivered
+ORD00325,2026-02-22,P008,Education,South,WH_DAL,32.0,23.15,16.85,5,5.0,Regional Carrier,Delivered
+ORD00326,2026-01-10,P008,Distribution,Northeast,WH_NJ,47.0,35.06,24.08,5,5.0,Internal Fleet,Delivered
+ORD00327,2026-01-05,P006,Retail,Midwest,WH_CHI,78.0,62.67,45.6,4,4.0,UPS,Delivered
+ORD00328,2026-03-24,P001,Education,Northeast,WH_NJ,88.0,77.43,51.59,2,2.0,FedEx,Delayed
+ORD00329,2026-02-03,P004,Government,South,WH_DAL,114.0,33.06,22.32,6,9.0,Internal Fleet,Delivered
+ORD00330,2026-01-20,P006,Government,Midwest,WH_CHI,72.0,12.84,8.5,2,2.0,FedEx,Delivered
+ORD00331,2026-01-19,P006,Education,West,WH_LAX,85.0,39.15,23.72,5,5.0,DHL,Delivered
+ORD00332,2026-03-02,P002,Government,Northeast,WH_NJ,97.0,28.92,18.25,2,2.0,FedEx,Delivered
+ORD00333,2026-02-13,P002,Healthcare,South,WH_DAL,58.0,43.7,30.55,4,5.0,Internal Fleet,Delivered
+ORD00334,2026-02-24,P008,Government,South,WH_DAL,60.0,52.23,31.35,5,5.0,Regional Carrier,Delayed
+ORD00335,2026-01-04,P004,Distribution,Northeast,WH_NJ,129.0,37.22,20.52,3,3.0,UPS,Delivered
+ORD00336,2026-02-05,P002,Distribution,Midwest,WH_CHI,60.0,19.02,12.14,5,6.0,FedEx,Delivered
+ORD00337,2026-02-03,P008,Distribution,West,WH_LAX,87.0,34.15,22.4,2,2.0,DHL,Delivered
+ORD00338,2026-02-15,P008,Education,South,WH_DAL,26.0,73.9,52.42,3,3.0,DHL,Delayed
+ORD00339,2026-01-16,P004,Retail,West,WH_LAX,58.0,18.73,13.81,6,8.0,Regional Carrier,Delayed
+ORD00340,2026-02-23,P003,Government,Northeast,WH_NJ,66.0,18.93,13.66,3,5.0,Internal Fleet,Delivered
+ORD00341,2026-01-22,P008,Healthcare,West,WH_LAX,103.0,19.03,14.79,6,6.0,FedEx,Delivered
+ORD00342,2026-02-15,P001,Healthcare,Northeast,WH_NJ,150.0,19.63,12.83,6,6.0,Internal Fleet,Delivered
+ORD00343,2026-03-25,P008,Government,Northeast,WH_NJ,78.0,36.17,28.1,5,5.0,UPS,Delivered
+ORD00344,2026-01-11,P001,Education,South,WH_DAL,142.0,7.45,4.55,4,4.0,UPS,Delivered
+ORD00345,2026-02-28,P008,Distribution,Midwest,WH_CHI,79.0,13.57,10.3,4,4.0,Internal Fleet,Delivered
+ORD00346,2026-01-06,P008,Government,South,WH_DAL,121.0,12.68,9.82,3,4.0,DHL,Delivered
+ORD00347,2026-01-05,P008,Education,West,WH_LAX,103.0,69.66,39.95,2,2.0,UPS,Delayed
+ORD00348,2026-01-27,P006,Healthcare,Northeast,WH_NJ,144.0,51.21,39.02,3,4.0,FedEx,Delivered
+ORD00349,2026-03-14,P006,Distribution,West,WH_LAX,108.0,45.41,28.94,4,4.0,DHL,Delivered
+ORD00350,2026-03-15,P005,Healthcare,Midwest,WH_CHI,97.0,77.21,58.84,2,2.0,DHL,Delivered
+ORD00351,2026-03-25,P003,Healthcare,South,WH_DAL,74.0,15.97,10.17,3,3.0,Regional Carrier,Delivered
+ORD00352,2026-03-04,P003,Government,West,WH_LAX,85.0,33.14,18.9,2,2.0,Regional Carrier,Delivered
+ORD00353,2026-03-07,P005,Government,West,WH_LAX,81.0,76.27,48.69,2,2.0,FedEx,Delivered
+ORD00354,2026-02-28,P006,Distribution,Midwest,WH_CHI,124.0,34.83,28.26,3,,Regional Carrier,Cancelled
+ORD00355,2026-02-04,P006,Education,West,WH_LAX,32.0,46.05,26.95,5,5.0,DHL,Delivered
+ORD00356,2026-03-29,P001,Retail,Midwest,WH_CHI,106.0,51.96,40.32,2,3.0,FedEx,Delivered
+ORD00357,2026-01-21,P008,Retail,Northeast,WH_NJ,88.0,79.39,52.83,3,6.0,DHL,Delivered
+ORD00358,2026-01-21,P005,Education,Midwest,WH_CHI,135.0,23.78,15.47,3,3.0,FedEx,Delayed
+ORD00359,2026-02-20,P005,Government,South,WH_DAL,64.0,54.16,40.08,2,2.0,UPS,Delivered
+ORD00360,2026-03-03,P002,Distribution,South,WH_DAL,86.0,21.96,16.11,2,2.0,FedEx,Delivered
+ORD00361,2026-03-31,P006,Government,Midwest,WH_CHI,121.0,57.05,38.74,3,3.0,Regional Carrier,Delayed
+ORD00362,2026-01-12,P002,Education,Midwest,WH_CHI,26.0,32.57,20.55,5,10.0,UPS,Delayed
+ORD00363,2026-03-24,P003,Distribution,Midwest,WH_CHI,60.0,47.25,33.77,3,4.0,Regional Carrier,Delivered
+ORD00364,2026-02-14,P004,Government,South,WH_DAL,93.0,51.21,34.28,3,3.0,FedEx,Delivered
+ORD00365,2026-01-13,P003,Distribution,Midwest,WH_CHI,134.0,59.75,38.53,5,5.0,DHL,Delivered
+ORD00366,2026-01-18,P004,Retail,West,WH_LAX,77.0,23.61,16.82,6,,DHL,Cancelled
+ORD00367,2026-03-30,P001,Healthcare,West,WH_LAX,29.0,43.83,30.14,5,5.0,DHL,Delivered
+ORD00368,2026-03-24,P001,Government,South,WH_DAL,3.0,33.94,20.88,6,6.0,FedEx,Delivered
+ORD00369,2026-03-09,P001,Education,West,WH_LAX,88.0,14.9,11.66,6,6.0,Regional Carrier,Delivered
+ORD00370,2026-02-16,P003,Retail,Northeast,WH_NJ,60.0,6.25,3.55,4,7.0,UPS,Delivered
+ORD00371,2026-01-06,P001,Distribution,Northeast,WH_NJ,102.0,26.49,19.67,5,5.0,Regional Carrier,Delivered
+ORD00372,2026-03-31,P007,Distribution,Midwest,WH_CHI,76.0,45.32,26.79,2,2.0,DHL,Delivered
+ORD00373,2026-01-11,P004,Distribution,South,WH_DAL,78.0,29.51,20.9,2,4.0,DHL,Delivered
+ORD00374,2026-03-31,P007,Retail,South,WH_DAL,88.0,23.34,18.66,2,2.0,Regional Carrier,Delivered
+ORD00375,2026-03-20,P001,Healthcare,West,WH_LAX,36.0,13.96,10.35,2,4.0,UPS,Delivered
+ORD00376,2026-03-05,P006,Healthcare,West,WH_LAX,130.0,32.89,24.75,4,7.0,FedEx,Delivered
+ORD00377,2026-01-04,P006,Education,Northeast,WH_NJ,91.0,44.29,27.5,6,7.0,FedEx,Delivered
+ORD00378,2026-03-05,P008,Retail,West,WH_LAX,95.0,42.47,29.86,4,5.0,UPS,Delivered
+ORD00379,2026-02-02,P002,Healthcare,Midwest,WH_CHI,86.0,60.56,33.35,2,3.0,UPS,Delivered
+ORD00380,2026-01-06,P008,Government,West,WH_LAX,104.0,74.02,44.29,2,2.0,Internal Fleet,Delivered
+ORD00381,2026-03-25,P007,Education,South,WH_DAL,56.0,23.62,18.83,4,4.0,DHL,Delivered
+ORD00382,2026-01-10,P006,Distribution,Midwest,WH_CHI,143.0,55.5,31.31,3,3.0,Internal Fleet,Delivered
+ORD00383,2026-01-06,P007,Government,Midwest,WH_CHI,109.0,69.95,53.08,4,4.0,DHL,Delivered
+ORD00384,2026-01-12,P008,Education,Midwest,WH_CHI,57.0,20.05,14.08,4,4.0,Internal Fleet,Delivered
+ORD00385,2026-02-01,P008,Distribution,West,WH_LAX,64.0,77.89,63.82,3,3.0,Internal Fleet,Delivered
+ORD00386,2026-02-01,P003,Government,Midwest,WH_CHI,1.0,6.79,4.73,2,2.0,DHL,Delivered
+ORD00387,2026-01-01,P007,Retail,West,WH_LAX,46.0,20.39,16.63,5,,Regional Carrier,Cancelled
+ORD00388,2026-01-08,P003,Retail,West,WH_LAX,78.0,8.29,5.08,6,6.0,Regional Carrier,Delivered
+ORD00389,2026-03-31,P006,Retail,Northeast,WH_NJ,132.0,48.56,33.33,5,5.0,FedEx,Delivered
+ORD00390,2026-03-17,P001,Healthcare,Northeast,WH_NJ,110.0,22.76,14.12,4,4.0,Regional Carrier,Delivered
+ORD00391,2026-03-31,P006,Government,West,WH_LAX,71.0,25.4,14.48,3,3.0,UPS,Delivered
+ORD00392,2026-03-16,P002,Retail,South,WH_DAL,56.0,17.33,11.71,5,5.0,FedEx,Delivered
+ORD00393,2026-03-10,P006,Government,South,WH_DAL,142.0,28.12,17.48,2,3.0,FedEx,Delivered
+ORD00394,2026-01-21,P005,Healthcare,Midwest,WH_CHI,102.0,67.69,43.22,2,2.0,UPS,Delivered
+ORD00395,2026-02-15,P007,Education,Midwest,WH_CHI,128.0,24.51,20.04,2,2.0,Regional Carrier,Delayed
+ORD00396,2026-02-27,P004,Government,Midwest,WH_CHI,112.0,12.64,9.66,2,2.0,FedEx,Delivered
+ORD00397,2026-01-08,P004,Healthcare,South,WH_DAL,104.0,66.78,43.44,2,2.0,Internal Fleet,Delivered
+ORD00398,2026-03-17,P005,Retail,Midwest,WH_CHI,93.0,79.79,48.14,5,5.0,UPS,Delivered
+ORD00399,2026-01-12,P006,Retail,Midwest,WH_CHI,126.0,75.67,42.65,6,6.0,Regional Carrier,Delivered
+ORD00400,2026-02-20,P008,Government,Midwest,WH_CHI,86.0,56.24,33.56,3,3.0,UPS,Delivered
+ORD00401,2026-02-05,P005,Healthcare,Northeast,WH_NJ,57.0,7.6,5.45,3,5.0,DHL,Delivered
+ORD00402,2026-03-05,P007,Retail,Northeast,WH_NJ,63.0,11.58,7.57,5,10.0,UPS,Delivered
+ORD00403,2026-03-24,P004,Government,Midwest,WH_CHI,98.0,63.64,41.17,6,6.0,Regional Carrier,Delivered
+ORD00404,2026-02-14,P006,Education,Northeast,WH_NJ,59.0,18.49,11.76,3,3.0,FedEx,Delivered
+ORD00405,2026-02-05,P001,Distribution,Northeast,WH_NJ,81.0,31.81,22.51,3,3.0,UPS,Delivered
+ORD00406,2026-01-13,P004,Education,South,WH_DAL,84.0,45.03,34.39,2,2.0,UPS,Delivered
+ORD00407,2026-03-15,P007,Healthcare,West,WH_LAX,70.0,18.21,12.93,4,6.0,Internal Fleet,Delivered
+ORD00408,2026-01-04,P006,Distribution,South,WH_DAL,21.0,76.13,59.07,5,6.0,Internal Fleet,Delivered
+ORD00409,2026-02-09,P003,Retail,Northeast,WH_NJ,37.0,11.77,7.21,3,8.0,FedEx,Delivered
+ORD00410,2026-03-09,P008,Education,Midwest,WH_CHI,28.0,73.84,44.63,3,5.0,DHL,Delivered
+ORD00411,2026-01-23,P006,Retail,Midwest,WH_CHI,138.0,16.08,11.9,3,3.0,FedEx,Delayed
+ORD00412,2026-03-09,P006,Education,Midwest,WH_CHI,63.0,57.84,42.15,6,8.0,FedEx,Delivered
+ORD00413,2026-02-13,P005,Healthcare,West,WH_LAX,102.0,78.19,58.47,5,7.0,Regional Carrier,Delivered
+ORD00414,2026-03-25,P006,Distribution,South,WH_DAL,24.0,57.02,45.66,4,4.0,UPS,Delivered
+ORD00415,2026-03-27,P003,Education,Northeast,WH_NJ,58.0,60.05,37.8,3,3.0,FedEx,Delayed
+ORD00416,2026-03-31,P007,Healthcare,Midwest,WH_CHI,93.0,50.18,40.08,6,6.0,UPS,Delivered
+ORD00417,2026-03-23,P002,Healthcare,Northeast,WH_NJ,79.0,29.84,17.04,4,4.0,DHL,Delayed
+ORD00418,2026-01-22,P002,Government,West,WH_LAX,121.0,5.85,3.55,2,2.0,DHL,Delivered
+ORD00419,2026-02-02,P002,Retail,Midwest,WH_CHI,120.0,33.95,25.39,3,3.0,Regional Carrier,Delivered
+ORD00420,2026-03-05,P007,Distribution,West,WH_LAX,19.0,33.15,25.65,6,9.0,UPS,Delivered
+ORD00421,2026-01-21,P008,Retail,Midwest,WH_CHI,34.0,27.12,17.25,2,3.0,FedEx,Delivered
+ORD00422,2026-02-13,P003,Healthcare,Northeast,WH_NJ,120.0,59.9,41.79,2,5.0,DHL,Delivered
+ORD00423,2026-03-18,P008,Government,Midwest,WH_CHI,82.0,75.68,45.0,5,5.0,UPS,Delivered
+ORD00424,2026-01-07,P002,Healthcare,West,WH_LAX,35.0,78.08,51.57,6,6.0,Internal Fleet,Delivered
+ORD00425,2026-02-03,P005,Healthcare,West,WH_LAX,132.0,12.19,8.0,6,6.0,Regional Carrier,Delivered
+ORD00426,2026-01-20,P001,Retail,West,WH_LAX,109.0,37.07,23.34,6,6.0,Regional Carrier,Delivered
+ORD00427,2026-01-26,P002,Healthcare,Midwest,WH_CHI,68.0,17.81,11.2,2,4.0,Regional Carrier,Delivered
+ORD00428,2026-01-15,P005,Government,Northeast,WH_NJ,152.0,41.68,30.36,2,2.0,Internal Fleet,Delivered
+ORD00429,2026-02-19,P003,Government,West,WH_LAX,70.0,32.71,21.93,4,4.0,Regional Carrier,Delivered
+ORD00430,2026-03-01,P005,Education,South,WH_DAL,73.0,47.32,27.96,2,2.0,FedEx,Delayed
+ORD00431,2026-03-27,P006,Distribution,Northeast,WH_NJ,105.0,22.06,12.5,5,5.0,Internal Fleet,Delivered
+ORD00432,2026-02-23,P008,Government,South,WH_DAL,77.0,27.41,18.0,2,2.0,Internal Fleet,Delivered
+ORD00433,2026-03-15,P003,Government,Midwest,WH_CHI,112.0,17.97,14.66,3,3.0,UPS,Delivered
+ORD00434,2026-01-17,P001,Retail,Northeast,WH_NJ,92.0,79.12,52.82,3,3.0,Internal Fleet,Delivered
+ORD00435,2026-02-03,P006,Retail,Midwest,WH_CHI,118.0,34.11,22.42,4,4.0,DHL,Delivered
+ORD00436,2026-03-08,P008,Distribution,Midwest,WH_CHI,43.0,49.07,37.34,2,5.0,Regional Carrier,Delivered
+ORD00437,2026-01-20,P003,Retail,Midwest,WH_CHI,58.0,47.2,27.25,4,6.0,Internal Fleet,Delivered
+ORD00438,2026-02-14,P007,Government,West,WH_LAX,146.0,54.11,38.12,5,5.0,FedEx,Delivered
+ORD00439,2026-01-23,P005,Healthcare,Northeast,WH_NJ,85.0,51.37,37.7,5,5.0,FedEx,Delivered
+ORD00440,2026-02-20,P006,Retail,South,WH_DAL,92.0,60.93,48.66,4,6.0,FedEx,Delivered
+ORD00441,2026-02-13,P005,Education,West,WH_LAX,118.0,68.21,53.32,2,2.0,UPS,Delivered
+ORD00442,2026-01-18,P005,Education,Northeast,WH_NJ,121.0,25.21,16.7,2,2.0,UPS,Delivered
+ORD00443,2026-02-26,P004,Government,Northeast,WH_NJ,90.0,61.96,48.59,2,7.0,Internal Fleet,Delivered
+ORD00444,2026-01-21,P002,Distribution,West,WH_LAX,53.0,35.25,26.82,6,11.0,Internal Fleet,Delivered
+ORD00445,2026-01-04,P003,Healthcare,South,WH_DAL,91.0,67.77,41.84,5,5.0,FedEx,Delivered
+ORD00446,2026-02-16,P004,Education,West,WH_LAX,94.0,66.76,45.82,2,4.0,FedEx,Delivered
+ORD00447,2026-01-31,P006,Distribution,Northeast,WH_NJ,121.0,38.46,31.13,5,6.0,Internal Fleet,Delivered
+ORD00448,2026-03-12,P006,Healthcare,West,WH_LAX,37.0,67.82,42.04,2,3.0,DHL,Delivered
+ORD00449,2026-01-04,P007,Healthcare,Midwest,WH_CHI,74.0,69.04,52.51,3,3.0,UPS,Delivered
+ORD00450,2026-03-24,P004,Education,South,WH_DAL,84.0,53.87,37.09,2,2.0,Regional Carrier,Delivered
+ORD00451,2026-01-17,P003,Healthcare,Midwest,WH_CHI,135.0,23.93,18.36,4,4.0,DHL,Delivered
+ORD00452,2026-02-24,P007,Government,West,WH_LAX,50.0,23.9,16.16,6,6.0,Internal Fleet,Delivered
+ORD00453,2026-02-20,P002,Distribution,Midwest,WH_CHI,137.0,79.96,64.84,4,4.0,Internal Fleet,Delivered
+ORD00454,2026-03-24,P005,Retail,West,WH_LAX,115.0,41.13,26.36,4,4.0,DHL,Delivered
+ORD00455,2026-02-05,P005,Healthcare,West,WH_LAX,1.0,16.24,12.29,2,2.0,Internal Fleet,Delivered
+ORD00456,2026-02-21,P006,Retail,South,WH_DAL,160.0,54.16,44.37,4,4.0,Regional Carrier,Delivered
+ORD00457,2026-02-21,P007,Distribution,Midwest,WH_CHI,115.0,58.11,40.94,3,3.0,DHL,Delivered
+ORD00458,2026-01-29,P008,Distribution,West,WH_LAX,165.0,27.51,16.39,6,7.0,UPS,Delivered
+ORD00459,2026-02-07,P002,Healthcare,Northeast,WH_NJ,106.0,60.57,45.17,6,6.0,UPS,Delayed
+ORD00460,2026-03-29,P006,Healthcare,Midwest,WH_CHI,89.0,31.65,23.77,4,4.0,Regional Carrier,Delayed
+ORD00461,2026-02-12,P006,Distribution,West,WH_LAX,53.0,27.05,21.09,5,5.0,FedEx,Delivered
+ORD00462,2026-03-23,P002,Healthcare,Northeast,WH_NJ,70.0,42.54,33.36,5,5.0,Internal Fleet,Delivered
+ORD00463,2026-02-08,P007,Healthcare,Midwest,WH_CHI,86.0,15.3,9.24,5,5.0,Internal Fleet,Delivered
+ORD00464,2026-02-28,P003,Healthcare,West,WH_LAX,128.0,63.42,43.23,3,3.0,DHL,Delivered
+ORD00465,2026-03-23,P001,Government,Midwest,WH_CHI,45.0,25.51,19.27,3,3.0,Internal Fleet,Delivered
+ORD00466,2026-01-21,P008,Healthcare,Midwest,WH_CHI,72.0,51.09,36.84,5,5.0,Regional Carrier,Delivered
+ORD00467,2026-03-03,P007,Retail,Midwest,WH_CHI,58.0,45.03,33.65,2,2.0,DHL,Delivered
+ORD00468,2026-03-09,P004,Retail,Midwest,WH_CHI,91.0,52.0,32.09,4,7.0,DHL,Delivered
+ORD00469,2026-01-17,P002,Distribution,Northeast,WH_NJ,87.0,49.15,29.25,2,2.0,DHL,Delivered
+ORD00470,2026-02-07,P008,Government,West,WH_LAX,127.0,71.6,58.62,4,7.0,Regional Carrier,Delivered
+ORD00471,2026-02-15,P004,Government,South,WH_DAL,81.0,6.43,3.93,3,3.0,UPS,Delivered
+ORD00472,2026-01-03,P003,Education,Midwest,WH_CHI,81.0,58.33,44.56,5,5.0,DHL,Delivered
+ORD00473,2026-03-10,P001,Retail,Midwest,WH_CHI,36.0,54.02,30.0,2,3.0,Regional Carrier,Delivered
+ORD00474,2026-02-26,P007,Distribution,Midwest,WH_CHI,55.0,23.96,17.72,3,4.0,FedEx,Delivered
+ORD00475,2026-02-08,P007,Distribution,Midwest,WH_CHI,56.0,25.25,18.02,3,3.0,Regional Carrier,Delivered
+ORD00476,2026-01-14,P002,Retail,West,WH_LAX,89.0,63.86,43.71,6,6.0,UPS,Delivered
+ORD00477,2026-02-03,P004,Government,West,WH_LAX,102.0,27.15,15.22,5,5.0,UPS,Delivered
+ORD00478,2026-03-30,P008,Healthcare,West,WH_LAX,94.0,5.21,3.81,2,2.0,Internal Fleet,Delivered
+ORD00479,2026-03-27,P008,Retail,South,WH_DAL,113.0,63.46,36.19,2,2.0,DHL,Delivered
+ORD00480,2026-03-24,P004,Education,Northeast,WH_NJ,157.0,24.81,13.98,3,3.0,FedEx,Delivered
+ORD00481,2026-02-07,P006,Government,West,WH_LAX,51.0,60.39,34.76,2,2.0,FedEx,Delivered
+ORD00482,2026-01-18,P003,Education,West,WH_LAX,137.0,72.09,58.24,4,,FedEx,Cancelled
+ORD00483,2026-02-17,P006,Retail,South,WH_DAL,99.0,35.06,28.39,4,4.0,Regional Carrier,Delivered
+ORD00484,2026-03-30,P008,Healthcare,Northeast,WH_NJ,136.0,13.48,9.95,2,2.0,UPS,Delayed
+ORD00485,2026-01-14,P007,Distribution,Northeast,WH_NJ,59.0,55.88,33.47,5,5.0,DHL,Delivered
+ORD00486,2026-03-20,P001,Government,South,WH_DAL,44.0,74.03,42.97,5,5.0,Regional Carrier,Delivered
+ORD00487,2026-01-06,P002,Education,West,WH_LAX,88.0,5.93,4.65,6,8.0,Internal Fleet,Delivered
+ORD00488,2026-03-14,P004,Distribution,West,WH_LAX,25.0,44.23,32.69,2,2.0,Regional Carrier,Delivered
+ORD00489,2026-03-26,P004,Education,Northeast,WH_NJ,122.0,54.78,39.62,3,8.0,Internal Fleet,Delivered
+ORD00490,2026-03-20,P001,Healthcare,Midwest,WH_CHI,37.0,42.92,29.04,5,5.0,UPS,Delivered
+ORD00491,2026-01-10,P008,Healthcare,West,WH_LAX,55.0,29.82,18.64,6,6.0,UPS,Delayed
+ORD00492,2026-03-12,P007,Healthcare,Northeast,WH_NJ,78.0,10.91,7.31,6,6.0,Regional Carrier,Delivered
+ORD00493,2026-01-12,P008,Education,Northeast,WH_NJ,85.0,13.9,9.51,2,2.0,FedEx,Delivered
+ORD00494,2026-02-21,P007,Distribution,Midwest,WH_CHI,30.0,46.18,35.7,6,7.0,Internal Fleet,Delivered
+ORD00495,2026-03-23,P005,Government,South,WH_DAL,118.0,76.28,49.44,2,5.0,UPS,Delivered
+ORD00496,2026-02-28,P006,Education,Northeast,WH_NJ,101.0,58.69,34.09,3,3.0,FedEx,Delivered
+ORD00497,2026-02-13,P006,Distribution,West,WH_LAX,122.0,44.15,32.65,2,2.0,UPS,Delivered
+ORD00498,2026-03-05,P003,Retail,Northeast,WH_NJ,84.0,24.07,14.51,2,2.0,Regional Carrier,Delivered
+ORD00499,2026-01-28,P008,Education,South,WH_DAL,84.0,13.08,8.66,6,7.0,FedEx,Delivered
+ORD00500,2026-02-27,P008,Government,South,WH_DAL,74.0,5.33,3.99,6,6.0,Regional Carrier,Delivered
+ORD00501,2026-03-16,P008,Distribution,South,WH_DAL,52.0,18.02,13.88,2,2.0,Regional Carrier,Delayed
+ORD00502,2026-03-26,P006,Government,Northeast,WH_NJ,33.0,78.46,62.56,3,3.0,DHL,Delivered
+ORD00503,2026-02-20,P006,Government,West,WH_LAX,41.0,65.36,38.39,6,6.0,Internal Fleet,Delivered
+ORD00504,2026-02-08,P006,Healthcare,South,WH_DAL,4.0,20.73,15.4,4,6.0,UPS,Delivered
+ORD00505,2026-03-25,P003,Retail,West,WH_LAX,82.0,62.06,43.55,6,6.0,Internal Fleet,Delayed
+ORD00506,2026-03-27,P007,Government,West,WH_LAX,76.0,65.62,45.35,2,4.0,Regional Carrier,Delivered
+ORD00507,2026-01-19,P001,Healthcare,Midwest,WH_CHI,56.0,25.02,19.07,4,4.0,DHL,Delivered
+ORD00508,2026-01-19,P001,Healthcare,West,WH_LAX,114.0,61.52,34.37,5,5.0,FedEx,Delivered
+ORD00509,2026-03-20,P004,Healthcare,Northeast,WH_NJ,80.0,43.32,33.15,4,4.0,FedEx,Delivered
+ORD00510,2026-02-18,P007,Education,Northeast,WH_NJ,79.0,77.44,43.72,4,4.0,UPS,Delivered
+ORD00511,2026-03-21,P008,Education,South,WH_DAL,79.0,61.63,42.99,6,6.0,UPS,Delivered
+ORD00512,2026-01-25,P005,Healthcare,Northeast,WH_NJ,108.0,78.76,44.9,3,3.0,Internal Fleet,Delivered
+ORD00513,2026-01-16,P007,Government,Midwest,WH_CHI,42.0,25.93,16.11,3,3.0,Internal Fleet,Delivered
+ORD00514,2026-02-02,P001,Government,West,WH_LAX,69.0,58.23,34.46,3,3.0,DHL,Delivered
+ORD00515,2026-03-18,P001,Government,West,WH_LAX,81.0,64.24,44.87,2,5.0,DHL,Delivered
+ORD00516,2026-03-09,P004,Distribution,South,WH_DAL,98.0,10.11,6.94,5,5.0,Internal Fleet,Delivered
+ORD00517,2026-03-10,P007,Education,Midwest,WH_CHI,47.0,21.59,13.12,4,4.0,DHL,Delivered
+ORD00518,2026-02-16,P005,Distribution,South,WH_DAL,74.0,44.79,36.69,2,2.0,FedEx,Delivered
+ORD00519,2026-03-27,P006,Healthcare,Northeast,WH_NJ,72.0,72.84,52.13,6,,UPS,Cancelled
+ORD00520,2026-01-06,P006,Retail,Northeast,WH_NJ,132.0,33.94,23.62,4,4.0,FedEx,Delivered
+ORD00521,2026-03-08,P006,Government,Northeast,WH_NJ,58.0,8.29,6.57,3,3.0,DHL,Delivered
+ORD00522,2026-03-07,P002,Healthcare,Midwest,WH_CHI,69.0,77.87,59.09,6,,FedEx,Cancelled
+ORD00523,2026-03-22,P002,Healthcare,South,WH_DAL,95.0,69.87,46.43,2,2.0,UPS,Delivered
+ORD00524,2026-03-10,P007,Healthcare,Midwest,WH_CHI,121.0,6.78,5.04,2,2.0,FedEx,Delivered
+ORD00525,2026-01-10,P001,Education,South,WH_DAL,32.0,46.86,33.05,3,3.0,DHL,Delivered
+ORD00526,2026-02-22,P007,Government,Northeast,WH_NJ,72.0,37.48,20.78,2,3.0,Internal Fleet,Delivered
+ORD00527,2026-01-01,P002,Retail,Midwest,WH_CHI,59.0,31.83,21.83,4,4.0,DHL,Delivered
+ORD00528,2026-03-19,P002,Government,West,WH_LAX,1.0,33.61,25.95,2,3.0,Regional Carrier,Delivered
+ORD00529,2026-01-21,P004,Government,South,WH_DAL,28.0,64.76,50.47,4,4.0,UPS,Delivered
+ORD00530,2026-02-08,P006,Distribution,Midwest,WH_CHI,86.0,70.61,41.53,2,7.0,FedEx,Delivered
+ORD00531,2026-03-15,P007,Education,Midwest,WH_CHI,79.0,20.75,15.57,4,4.0,UPS,Delivered
+ORD00532,2026-02-22,P003,Healthcare,South,WH_DAL,100.0,21.56,16.72,3,3.0,FedEx,Delivered
+ORD00533,2026-01-24,P001,Distribution,Northeast,WH_NJ,79.0,10.49,7.67,4,4.0,FedEx,Delivered
+ORD00534,2026-01-26,P008,Education,West,WH_LAX,47.0,14.62,10.63,2,3.0,DHL,Delivered
+ORD00535,2026-03-21,P002,Education,South,WH_DAL,31.0,41.44,26.47,4,4.0,Internal Fleet,Delivered
+ORD00536,2026-01-20,P006,Government,West,WH_LAX,23.0,17.65,11.2,3,5.0,Regional Carrier,Delayed
+ORD00537,2026-02-05,P006,Education,South,WH_DAL,56.0,70.84,47.81,4,4.0,DHL,Delivered
+ORD00538,2026-03-04,P002,Distribution,South,WH_DAL,116.0,11.15,6.98,3,3.0,Internal Fleet,Delivered
+ORD00539,2026-01-26,P005,Retail,Midwest,WH_CHI,155.0,71.91,56.05,2,2.0,Internal Fleet,Delayed
+ORD00540,2026-03-16,P007,Retail,South,WH_DAL,58.0,46.37,32.31,6,6.0,Regional Carrier,Delivered
+ORD00541,2026-03-25,P003,Government,West,WH_LAX,81.0,21.75,16.5,4,4.0,UPS,Delivered
+ORD00542,2026-03-01,P002,Education,Northeast,WH_NJ,53.0,42.66,31.1,6,6.0,UPS,Delivered
+ORD00543,2026-03-07,P003,Healthcare,Northeast,WH_NJ,67.0,18.44,14.87,3,3.0,Regional Carrier,Delivered
+ORD00544,2026-02-15,P001,Government,South,WH_DAL,86.0,22.38,13.91,3,6.0,FedEx,Delivered
+ORD00545,2026-03-27,P004,Government,West,WH_LAX,32.0,40.23,27.06,2,2.0,FedEx,Delivered
+ORD00546,2026-03-25,P006,Distribution,Midwest,WH_CHI,45.0,52.52,32.76,4,4.0,Internal Fleet,Delivered
+ORD00547,2026-03-11,P003,Government,Northeast,WH_NJ,121.0,32.4,23.54,2,2.0,Internal Fleet,Delivered
+ORD00548,2026-02-02,P007,Distribution,South,WH_DAL,105.0,35.44,27.31,4,4.0,Regional Carrier,Delayed
+ORD00549,2026-03-03,P001,Government,South,WH_DAL,114.0,17.42,9.94,4,4.0,UPS,Delivered
+ORD00550,2026-01-20,P003,Education,South,WH_DAL,53.0,50.15,38.64,3,3.0,Regional Carrier,Delivered
+ORD00551,2026-02-12,P002,Government,Northeast,WH_NJ,126.0,40.93,29.04,5,5.0,FedEx,Delivered
+ORD00552,2026-02-01,P001,Distribution,South,WH_DAL,99.0,49.43,28.98,6,6.0,FedEx,Delayed
+ORD00553,2026-03-15,P003,Healthcare,Midwest,WH_CHI,57.0,24.37,14.59,5,10.0,Internal Fleet,Delivered
+ORD00554,2026-03-14,P001,Retail,West,WH_LAX,112.0,21.24,15.16,5,5.0,Regional Carrier,Delivered
+ORD00555,2026-01-22,P004,Distribution,Northeast,WH_NJ,98.0,15.7,11.1,3,3.0,Internal Fleet,Delivered
+ORD00556,2026-03-26,P005,Education,South,WH_DAL,117.0,74.18,52.75,2,5.0,UPS,Delivered
+ORD00557,2026-02-18,P007,Retail,South,WH_DAL,43.0,6.24,4.31,6,6.0,Regional Carrier,Delivered
+ORD00558,2026-01-20,P002,Government,South,WH_DAL,11.0,72.62,51.7,6,9.0,Internal Fleet,Delivered
+ORD00559,2026-01-16,P002,Healthcare,Northeast,WH_NJ,72.0,72.65,50.54,2,4.0,Regional Carrier,Delivered
+ORD00560,2026-03-08,P007,Retail,West,WH_LAX,70.0,57.32,38.16,5,5.0,Regional Carrier,Delivered
+ORD00561,2026-02-14,P002,Healthcare,Northeast,WH_NJ,74.0,24.09,18.23,2,3.0,DHL,Delivered
+ORD00562,2026-03-18,P007,Healthcare,West,WH_LAX,89.0,5.41,4.06,2,4.0,Internal Fleet,Delivered
+ORD00563,2026-03-08,P002,Government,Midwest,WH_CHI,103.0,54.09,39.79,4,4.0,Regional Carrier,Delivered
+ORD00564,2026-02-16,P002,Government,South,WH_DAL,121.0,53.87,33.32,6,11.0,Regional Carrier,Delayed
+ORD00565,2026-03-14,P006,Government,West,WH_LAX,93.0,61.62,40.77,6,7.0,Regional Carrier,Delivered
+ORD00566,2026-01-23,P006,Education,Northeast,WH_NJ,57.0,79.14,55.87,5,5.0,UPS,Delivered
+ORD00567,2026-03-26,P002,Government,South,WH_DAL,90.0,63.73,51.39,2,2.0,UPS,Delivered
+ORD00568,2026-03-07,P007,Distribution,West,WH_LAX,139.0,51.05,37.51,2,2.0,UPS,Delivered
+ORD00569,2026-02-19,P001,Healthcare,Midwest,WH_CHI,106.0,40.38,28.75,2,2.0,FedEx,Delivered
+ORD00570,2026-02-03,P004,Retail,West,WH_LAX,93.0,50.68,37.79,5,5.0,Internal Fleet,Delivered
+ORD00571,2026-03-25,P005,Healthcare,Midwest,WH_CHI,72.0,53.02,35.45,3,4.0,Internal Fleet,Delivered
+ORD00572,2026-02-06,P004,Distribution,Midwest,WH_CHI,50.0,43.29,31.97,6,6.0,UPS,Delivered
+ORD00573,2026-03-28,P001,Healthcare,West,WH_LAX,38.0,54.13,44.03,2,2.0,DHL,Delivered
+ORD00574,2026-02-21,P006,Government,Northeast,WH_NJ,95.0,48.96,33.77,2,2.0,FedEx,Delivered
+ORD00575,2026-03-12,P005,Education,West,WH_LAX,52.0,77.25,48.25,6,9.0,UPS,Delivered
+ORD00576,2026-02-28,P007,Education,Midwest,WH_CHI,102.0,18.13,12.45,6,6.0,FedEx,Delivered
+ORD00577,2026-03-06,P005,Retail,West,WH_LAX,105.0,65.22,52.72,6,11.0,Internal Fleet,Delivered
+ORD00578,2026-02-02,P008,Distribution,Northeast,WH_NJ,66.0,41.27,25.41,4,4.0,Regional Carrier,Delivered
+ORD00579,2026-03-29,P008,Government,Midwest,WH_CHI,87.0,13.72,7.8,3,3.0,UPS,Delivered
+ORD00580,2026-02-10,P007,Distribution,West,WH_LAX,112.0,45.17,33.39,4,4.0,UPS,Delivered
+ORD00581,2026-02-06,P002,Education,Northeast,WH_NJ,26.0,10.7,8.58,5,6.0,DHL,Delivered
+ORD00582,2026-02-15,P004,Healthcare,West,WH_LAX,124.0,76.03,55.84,3,3.0,Regional Carrier,Delivered
+ORD00583,2026-01-26,P004,Education,South,WH_DAL,60.0,20.51,12.4,3,3.0,Internal Fleet,Delivered
+ORD00584,2026-02-15,P003,Retail,Midwest,WH_CHI,86.0,74.01,54.21,5,5.0,Internal Fleet,Delivered
+ORD00585,2026-01-01,P001,Education,Northeast,WH_NJ,115.0,51.55,35.21,6,6.0,DHL,Delivered
+ORD00586,2026-03-04,P003,Government,West,WH_LAX,100.0,21.66,15.29,2,2.0,Internal Fleet,Delivered
+ORD00587,2026-02-24,P008,Distribution,Midwest,WH_CHI,74.0,31.05,24.29,3,4.0,Regional Carrier,Delivered
+ORD00588,2026-01-16,P008,Retail,West,WH_LAX,64.0,5.89,3.57,6,7.0,FedEx,Delivered
+ORD00589,2026-02-11,P006,Healthcare,West,WH_LAX,40.0,46.14,28.33,5,5.0,Internal Fleet,Delivered
+ORD00590,2026-02-13,P006,Government,South,WH_DAL,73.0,36.8,24.4,4,4.0,DHL,Delivered
+ORD00591,2026-02-21,P005,Healthcare,Northeast,WH_NJ,132.0,47.86,38.98,3,8.0,FedEx,Delayed
+ORD00592,2026-02-04,P004,Government,Northeast,WH_NJ,102.0,19.7,15.09,3,3.0,Regional Carrier,Delivered
+ORD00593,2026-01-02,P003,Government,Northeast,WH_NJ,122.0,15.09,11.94,6,6.0,Internal Fleet,Delivered
+ORD00594,2026-02-10,P008,Education,West,WH_LAX,100.0,47.16,33.17,5,6.0,FedEx,Delivered
+ORD00595,2026-03-30,P003,Healthcare,Midwest,WH_CHI,145.0,66.04,44.82,2,2.0,Regional Carrier,Delivered
+ORD00596,2026-02-12,P005,Education,West,WH_LAX,134.0,47.03,37.7,4,4.0,DHL,Delivered
+ORD00597,2026-01-03,P007,Education,Midwest,WH_CHI,84.0,70.05,56.74,3,3.0,Internal Fleet,Delayed
+ORD00598,2026-03-15,P003,Education,West,WH_LAX,18.0,29.38,20.21,5,5.0,FedEx,Delivered
+ORD00599,2026-02-18,P005,Healthcare,Northeast,WH_NJ,97.0,70.12,50.69,4,4.0,Regional Carrier,Delivered
+ORD00600,2026-03-22,P007,Retail,Midwest,WH_CHI,61.0,17.15,10.49,4,4.0,DHL,Delivered
+ORD00447,2026-01-31,P006,Distribution,Northeast,WH_NJ,121.0,38.46,31.13,5,6.0,Internal Fleet,Delivered
+ORD00405,2026-02-05,P001,Distribution,Northeast,WH_NJ,81.0,31.81,22.51,3,3.0,UPS,Delivered
+ORD00510,2026-02-18,P007,Education,Northeast,WH_NJ,79.0,77.44,43.72,4,4.0,UPS,Delivered
+ORD00456,2026-02-21,P006,Retail,South,WH_DAL,160.0,54.16,44.37,4,4.0,Regional Carrier,Delivered
+ORD00202,2026-03-06,P001,Government,Northeast,WH_NJ,49.0,8.27,5.41,4,4.0,DHL,Delivered
+ORD00024,2026-02-12,P002,Education,South,WH_DAL,114.0,55.17,33.53,3,3.0,Internal Fleet,Delivered
+ORD00416,2026-03-31,P007,Healthcare,Midwest,WH_CHI,93.0,50.18,40.08,6,6.0,UPS,Delivered
+ORD00549,2026-03-03,P001,Government,South,WH_DAL,114.0,17.42,9.94,4,4.0,UPS,Delivered

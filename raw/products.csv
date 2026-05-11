@@ -1,0 +1,9 @@
+product_id,product_name,category,supplier
+P001,Copy Paper,Office Supplies,NorthStar Paper
+P002,Nitrile Gloves,Healthcare Supplies,SafeHands
+P003,Cleaning Wipes,Janitorial,CleanPro
+P004,Paper Towels,Janitorial,DaxPro
+P005,Disposable Cups,Food Service,EcoServe
+P006,Printer Toner,Office Supplies,InkLogic
+P007,Trash Bags,Janitorial,CleanPro
+P008,Face Masks,Healthcare Supplies,SafeHands

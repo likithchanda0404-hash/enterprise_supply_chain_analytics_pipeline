@@ -1,0 +1,5 @@
+warehouse_id,region
+WH_CHI,Midwest
+WH_NJ,Northeast
+WH_LAX,West
+WH_DAL,South

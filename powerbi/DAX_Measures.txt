@@ -1,0 +1,15 @@
+Total Orders = DISTINCTCOUNT(PowerBI_Dashboard_Data[order_id])
+
+Total Revenue = SUM(PowerBI_Dashboard_Data[revenue])
+
+Total Profit = SUM(PowerBI_Dashboard_Data[profit])
+
+Average Profit Margin = AVERAGE(PowerBI_Dashboard_Data[profit_margin])
+
+On Time Orders = CALCULATE(DISTINCTCOUNT(PowerBI_Dashboard_Data[order_id]), PowerBI_Dashboard_Data[delivery_status] = "On Time")
+
+On Time Delivery Rate = DIVIDE([On Time Orders], [Total Orders], 0)
+
+Contract Review Orders = CALCULATE(DISTINCTCOUNT(PowerBI_Dashboard_Data[order_id]), PowerBI_Dashboard_Data[contract_validation_flag] = "Review Needed")
+
+Contract Review Rate = DIVIDE([Contract Review Orders], [Total Orders], 0)

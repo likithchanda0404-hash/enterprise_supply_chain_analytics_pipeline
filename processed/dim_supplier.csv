@@ -1,0 +1,7 @@
+supplier,risk_tier,active_contract,contract_terms_target_on_time_rate,contract_terms_max_defect_rate,contract_terms_payment_terms
+CleanPro,Medium,True,0.92,0.04,Net 45
+DaxPro,High,True,0.94,0.05,Net 45
+EcoServe,Low,True,0.91,0.06,Net 45
+InkLogic,Low,True,0.88,0.02,Net 60
+NorthStar Paper,High,True,0.92,0.06,Net 60
+SafeHands,Low,True,0.87,0.03,Net 30

@@ -1,0 +1,62 @@
+[
+  {
+    "supplier": "CleanPro",
+    "contract_terms": {
+      "target_on_time_rate": 0.92,
+      "max_defect_rate": 0.04,
+      "payment_terms": "Net 45"
+    },
+    "risk_tier": "Medium",
+    "active_contract": true
+  },
+  {
+    "supplier": "DaxPro",
+    "contract_terms": {
+      "target_on_time_rate": 0.94,
+      "max_defect_rate": 0.05,
+      "payment_terms": "Net 45"
+    },
+    "risk_tier": "High",
+    "active_contract": true
+  },
+  {
+    "supplier": "EcoServe",
+    "contract_terms": {
+      "target_on_time_rate": 0.91,
+      "max_defect_rate": 0.06,
+      "payment_terms": "Net 45"
+    },
+    "risk_tier": "Low",
+    "active_contract": true
+  },
+  {
+    "supplier": "InkLogic",
+    "contract_terms": {
+      "target_on_time_rate": 0.88,
+      "max_defect_rate": 0.02,
+      "payment_terms": "Net 60"
+    },
+    "risk_tier": "Low",
+    "active_contract": true
+  },
+  {
+    "supplier": "NorthStar Paper",
+    "contract_terms": {
+      "target_on_time_rate": 0.92,
+      "max_defect_rate": 0.06,
+      "payment_terms": "Net 60"
+    },
+    "risk_tier": "High",
+    "active_contract": true
+  },
+  {
+    "supplier": "SafeHands",
+    "contract_terms": {
+      "target_on_time_rate": 0.87,
+      "max_defect_rate": 0.03,
+      "payment_terms": "Net 30"
+    },
+    "risk_tier": "Low",
+    "active_contract": true
+  }
+]
